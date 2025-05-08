@@ -30,5 +30,5 @@ python vector_plotter.py
 
 ## Autor
 
-Desarrollado por [Tu Nombre](https://github.com/tu_usuario).
+Desarrollado por cesar.
 ``
